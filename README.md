@@ -11,6 +11,7 @@ brasileiros utilizando dados públicos do IBGE e do INEP.
 
 - Instituto Brasileiro de Geografia e Estatística (IBGE)
 - Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira (INEP)
+- https://www.gov.br/inep/pt-br/areas-de-atuacao/pesquisas-estatisticas-e-indicadores/ideb/resultados/2005-2025
 
 ## Estrutura
 
